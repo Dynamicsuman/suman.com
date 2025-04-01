@@ -1,0 +1,20 @@
+footer{
+	display: flex;
+}
+.left,.mid,.right{
+	
+}
+.right{
+	display: flex;
+	flex-direction: column;
+}
+.social-icons{
+	display: flex;
+	gap: 10px;
+	padding: 10px;
+}
+.social-icons img{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+}
